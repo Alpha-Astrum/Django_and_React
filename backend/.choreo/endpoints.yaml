@@ -4,5 +4,6 @@ endpoints:
   - name: "REST API"
     port: 8000
     type: REST
+    Status: Active
     networkVisibility: Public
     context: /
